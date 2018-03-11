@@ -7,5 +7,3 @@ Minimal use case Express server starter with simple API request
 3. Start your server with `node app.js`
 
 I welcome any PRs if you think that the code can be improved / simplified.  
-
-Please note: I intentionally avoided ES 6 code to improve usability for new Node developers.
